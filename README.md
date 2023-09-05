@@ -1,4 +1,4 @@
-# Desafio de Criptografia - Cifra de César
+# Desafio de Criptografia - Cifra RSA
 
 Este projeto tem como objetivo desenvolver uma solução baseada no protocolo UDP que transmita uma mensagem criptografada com chave de 4096 bits utilizando a criptografia RSA.
 
