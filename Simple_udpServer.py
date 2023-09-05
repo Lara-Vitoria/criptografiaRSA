@@ -4,8 +4,8 @@ import pickle
 
 chaves = CriptografiaRSA.CriaChaves()
 
-serverIP = "192.168.0.101"
-serverPort = 20001
+serverIP = ""
+serverPort = 8888
 bufferSize = 4096
 serverSocket = socket(AF_INET, SOCK_DGRAM)
 serverSocket.bind((serverIP, serverPort))
